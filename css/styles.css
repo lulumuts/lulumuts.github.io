@@ -25,8 +25,9 @@ h2 {
 .jumbotron {
   font-size: 80px;
   text-align: center;
-  color: Darkgrey;
+  color: white;
   border-radius: 8px;
+  background-color: darkgrey;
 }
 .header {
     text-align: left;
