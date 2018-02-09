@@ -1,14 +1,12 @@
 img {
-  display:block;
+  display: block;
   width: 25%;
   float:left;
-  border-radius: 8px;
-
+  border-radius: 50%;
 }
 
 h1 {
   text-align: center;
-
 }
 
 body {
@@ -19,8 +17,9 @@ h2 {
   text-align: center;
 }
 .about{
-  text-align: :center;
-  font-size: 15px;
+  text-align: : left;
+  font-size: 14px;
+
 }
 .jumbotron {
   font-size: 80px;
@@ -31,4 +30,18 @@ h2 {
 }
 .header {
     text-align: left;
+    background-color: darkgrey;
+    padding: 6px;
+    margin: 20px;
+    border-radius: 8px;
+    color: white;
+}
+
+.box {
+  text-align: left;
+  background-color: darkgrey;
+  padding: 6px;
+  margin: 20px;
+  border-radius: 8px;
+  color: white;
 }
