@@ -1,28 +1,33 @@
 img {
   display:block;
   width: 25%;
+  float:left;
+  border-radius: 8px;
 
 }
 
 h1 {
   text-align: center;
+
 }
 
 body {
-  margin: 25px 50px 75px 100px;;
+  margin: 25px 50px 75px 100px;
 }
 
-.about {
-  text-align: justify;
-
+h2 {
+  text-align: center;
 }
-
-.list {
-  text-align: justify;
+.about{
+  text-align: :center;
+  font-size: 15px;
 }
-
-.project {
-  
-
-
+.jumbotron {
+  font-size: 80px;
+  text-align: center;
+  color: Darkgrey;
+  border-radius: 8px;
+}
+.header {
+    text-align: left;
 }
