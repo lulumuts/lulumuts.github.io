@@ -16,6 +16,10 @@ body {
 h2 {
   text-align: center;
 }
+
+h4 {
+  text-decoration: underline; 
+}
 .about{
   text-align: : left;
   font-size: 14px;
